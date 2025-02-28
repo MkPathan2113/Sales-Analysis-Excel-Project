@@ -20,7 +20,7 @@ This **Excel dashboard** provides insights into **sales trends, customer behavio
 ## 📂 Dataset Information  
 - **Source:** **- Kaggle** 
 - **Number of Records:** `31407 rows × 20 columns`  
-- **Columns Used:** Order ID	Cust ID	Gender	Age	Age Group 	Date	Month	Status	Channel 	SKU	Category	Size	Qty	Amount	ship-city	ship-state	ship-postal-code	ship-country	B2B etc.`  
+- **Columns Used:** Order ID , Cust ID , Gender , Age	Age Group , Date , Month , Status , Channel , SKU	, Category , Size , Qty , Amount , ship-city , ship-state , ship-postal-code , ship-country , B2B etc.`  
 
 ---
 
