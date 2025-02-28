@@ -47,7 +47,7 @@ This **Excel dashboard** provides insights into **sales trends, customer behavio
 
 ## 💡 Insights & Key Findings  
 📌 **Top-selling Products :** 📍 Set , Kurta , Western Dress   
-📌 **Best-selling products:** 🏆 Sets with 12000+ salwes  
+📌 **Best-selling products:** 🏆 Sets with 12000+ Qty sales  
 📌 **Least profitable categories:** ⚠️ Bottom , Blouse 
 📌 **Peak sales months:** 📆 Q1 - (January - April)
 
