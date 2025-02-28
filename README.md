@@ -10,7 +10,7 @@
 This **Excel dashboard** provides insights into **sales trends, customer behavior, and profitability** for a **superstore**.  
 
 ### 🎯 Key Features  
-✅ **Sales Analysis** – Total revenue, top-selling products, and region-wise sales.  
+✅ **Sales Analysis** – Total revenue, top-selling products, and month-wise sales.  
 ✅ **Customer Insights** – Buying patterns, order frequency, and customer segmentation.  
 ✅ **Profitability Metrics** – Profit margins, high/low-performing categories.  
 ✅ **Interactive Visuals** – Pivot tables, slicers, and dynamic charts.  
@@ -18,25 +18,23 @@ This **Excel dashboard** provides insights into **sales trends, customer behavio
 ---
 
 ## 📂 Dataset Information  
-- **Source:** *(Mention if it’s from Kaggle, a company dataset, or self-created)*  
-- **Number of Records:** `XXXX rows × XX columns`  
-- **Columns Used:** `Order Date, Sales, Profit, Category, Sub-Category, Region, Customer Segment, etc.`  
+- **Source:** **- Kaggle** 
+- **Number of Records:** `31407 rows × 20 columns`  
+- **Columns Used:** Order ID	Cust ID	Gender	Age	Age Group 	Date	Month	Status	Channel 	SKU	Category	Size	Qty	Amount	ship-city	ship-state	ship-postal-code	ship-country	B2B etc.`  
 
 ---
 
 ## 📊 Dashboard Components  
 - 🔹 **KPI Cards** – Total Sales, Profit, Orders  
-- 🔹 **Regional Analysis** – Sales by region & city  
 - 🔹 **Category Performance** – Best/worst-performing product categories  
-- 🔹 **Trend Analysis** – Monthly & yearly sales trends  
+- 🔹 **Trend Analysis** – Monthly  sales trends  
 - 🔹 **Filters & Slicers** – Easy selection for deep dives  
 
 ---
 
 ## 🛠 Tools & Techniques Used  
 - **Excel Features:** Pivot Tables, Power Query, Conditional Formatting, Charts  
-- **Visualization Tools:** Bar Charts, Line Charts, Pie Charts, Slicers  
-- **Formulas Used:** `SUMIF, VLOOKUP, INDEX-MATCH, TEXT, IFERROR`  
+- **Visualization Tools:** Bar Charts, Line Charts, Pie Charts, Slicers , Cards , Combo Charts   
 
 ---
 
@@ -48,22 +46,33 @@ This **Excel dashboard** provides insights into **sales trends, customer behavio
 ---
 
 ## 💡 Insights & Key Findings  
-📌 **Top-selling regions:** 📍 `Example - California, New York...`  
-📌 **Best-selling products:** 🏆 `Example - Office Supplies, Laptops...`  
-📌 **Least profitable categories:** ⚠️ `Example - Furniture...`  
-📌 **Peak sales months:** 📆 `Example - Q4 (October-December)...`  
+📌 **Top-selling Products :** 📍 Set , Kurta , Western Dress   
+📌 **Best-selling products:** 🏆 Sets with !2000+ salwes  
+📌 **Least profitable categories:** ⚠️ Bottom , Blouse 
+📌 **Peak sales months:** 📆 Q1 - (January - April)
 
 ---
 
 ## 📁 Files in Repository  
 | File Name                 | Description                                |
 |---------------------------|--------------------------------------------|
-| `Superstore_Dashboard.xlsx` | Excel file containing the full dashboard  |
+| `Superstore_Dashboard.xlsx` | Excel file containing the full dashboard |
+| 'PowerPoint PPT'           | Power point PPT for better understading  |
 | `Raw_Data.csv`            | Original dataset before cleaning          |
 | `README.md`               | Project documentation                     |
 | `Dashboard.png`           | Screenshot of the dashboard               |
 
 ---
+## 📊 Conclusion  
+
+This **Superstore Dashboard** provides a comprehensive analysis of sales, profits, and customer trends using Excel. The interactive visuals and insights help in:  
+
+✅ Women are more likely to buy as compared to men. **(~65%)**
+✅ Maharashtra , Karnataka , Uttarpradesh are the top 3 states. **(~35%)**  
+✅ Adult age group (30 - 49 yrs ) is max contributing. **(~50%)**  
+✅ Amazon , Flipcart , Myntra channels are max contributing. **(~80%)**
+
+By leveraging Excel's powerful **Pivot Tables, Charts, and Slicers**, this dashboard transforms raw data into meaningful insights, enabling **data-driven decision-making**.  
 
 ## 📢 Future Improvements  
 - 🔹 Add **forecasting models** using Power BI or Python.  
@@ -75,9 +84,8 @@ This **Excel dashboard** provides insights into **sales trends, customer behavio
 ## 🤝 Contributing  
 Feel free to **fork** this repository, suggest improvements, or report issues.  
 
-📩 For any queries, reach out via **[LinkedIn/GitHub profile link]**.  
+📩 For any queries, reach out via **https://www.linkedin.com/in/mokhit-khan-9234622b3/** 
 
 ---
 
-## 💾 Download & Explore the Dashboard!  
-📂 **[Click Here](https://github.com/your-repo-link) to Download the Excel File**  
+**Thanks for Exploring**
