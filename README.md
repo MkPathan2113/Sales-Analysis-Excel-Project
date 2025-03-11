@@ -2,7 +2,7 @@
 📊 **An interactive Excel dashboard analyzing sales performance of a Superstore.**  
 
 ## 📷 Dashboard Preview
-![Image](https://github.com/user-attachments/assets/ecf97f20-ded8-45b8-9158-29ebdf9ef052)
+![Image](https://github.com/user-attachments/assets/6f8cd443-d006-4889-a8af-98943c2cf843)
 
 ---
 
